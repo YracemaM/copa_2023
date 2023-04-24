@@ -1,0 +1,40 @@
+#titulo {
+    color: orchid; 
+ }
+ 
+ p1.texto {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+ }
+  
+ p2{ 
+    text-align-last: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    
+ }
+ 
+ h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    
+    color: orchid;
+ }
+ 
+ *{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orchid
+ }
+ .color{
+     
+ border-style: dashed;
+ border-color: orchid;
+ border-radius: 15px;
+ border-width: 10px;
+ }
+
+#fondo{
+    background-color: rgb(206, 189, 189) ;
+}
+ 
